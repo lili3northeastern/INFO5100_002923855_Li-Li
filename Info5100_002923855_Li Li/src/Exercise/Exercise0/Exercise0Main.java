@@ -4,9 +4,13 @@ public class Exercise0Main {
 
     //Create a Main method to instantiate at least 3 objects of each class
     public static void main(String[] args) {
+
         Cars c1 = new Cars();
         Cars c2 = new Cars("honda","black");
         Cars c3 = new Cars("honda","white","electronic");
+        c1.printCarsModel();
+        c2.printCarsColor();
+        c3.printCarsColor();
 
         Clothes cl1 = new Clothes();
         Clothes cl2 = new Clothes("pink");
