@@ -1,6 +1,6 @@
 package Exercise.Exercise2;
 
-abstract class Shape {
+public abstract class Shape {
     private String name;
 
     public Shape(String name) {

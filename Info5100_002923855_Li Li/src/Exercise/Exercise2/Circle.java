@@ -1,7 +1,7 @@
 package Exercise.Exercise2;
 
 // A Circle Class, Which Inherits from Shape Class
-class Circle extends Shape {
+public class Circle extends Shape {
     private double radius;
     public static String color;
 
