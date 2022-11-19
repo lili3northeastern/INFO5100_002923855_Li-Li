@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c8f2c1b-ae33-4b1d-a699-44c951657964" name="Changes" comment="Try1">
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise3b/DeserializeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise3b/SerializeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise4/Exercise4Pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise4/Exercise4Pattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise4/Exercise4Pattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise4/Exercise4Pattern4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise4/Exercise4Pattern5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise2/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise2/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise2/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise2/Shape.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FllQrRYJwmrnhwV1UjxqDTeFrr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "create.test.in.the.same.root": "true",
+    "last_opened_file_path": "/Users/lili/INFO5100_002923855_Li-Li"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Exercise.Exercise3b" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Exercise4Pattern1">
+    <configuration name="Exercise4Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Exercise4.Exercise4Pattern1" />
+      <module name="INFO5100_002923855_Li-Li" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise.Exercise4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise4Pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Exercise4.Exercise4Pattern2" />
+      <module name="INFO5100_002923855_Li-Li" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise.Exercise4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise4Pattern3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Exercise4.Exercise4Pattern3" />
+      <module name="INFO5100_002923855_Li-Li" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise.Exercise4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise4Pattern4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Exercise4.Exercise4Pattern4" />
+      <module name="INFO5100_002923855_Li-Li" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise.Exercise4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise4Pattern5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Exercise4.Exercise4Pattern5" />
+      <module name="INFO5100_002923855_Li-Li" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise.Exercise4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exercise4Pattern1" />
+        <item itemvalue="Application.Exercise4Pattern5" />
+        <item itemvalue="Application.Exercise4Pattern4" />
+        <item itemvalue="Application.Exercise4Pattern3" />
+        <item itemvalue="Application.Exercise4Pattern2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c8f2c1b-ae33-4b1d-a699-44c951657964" name="Changes" comment="" />
+      <created>1665074538441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665074538441</updated>
+      <workItem from="1665074541188" duration="135000" />
+      <workItem from="1665074685876" duration="205000" />
+      <workItem from="1665074906936" duration="1577000" />
+      <workItem from="1665077125042" duration="2652000" />
+      <workItem from="1665086602807" duration="484000" />
+      <workItem from="1665087208446" duration="1241000" />
+      <workItem from="1665088555232" duration="63000" />
+      <workItem from="1665088712491" duration="174000" />
+      <workItem from="1665088917804" duration="5034000" />
+      <workItem from="1665121736534" duration="3000" />
+      <workItem from="1665158659761" duration="16300000" />
+      <workItem from="1668275952104" duration="25053000" />
+    </task>
+    <task id="LOCAL-00001" summary="Try1">
+      <created>1665078794734</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665078794734</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Try1">
+      <created>1668806599064</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668806599064</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Try1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Try1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassCastException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise4/Exercise4Pattern2.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
