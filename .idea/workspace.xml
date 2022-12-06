@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c8f2c1b-ae33-4b1d-a699-44c951657964" name="Changes" comment="Try1" />
+    <list default="true" id="8c8f2c1b-ae33-4b1d-a699-44c951657964" name="Changes" comment="Try1">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_6_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise5/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise5/GEAirConditioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise5/GEAirConditioningFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise5/LGAirConditioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise5/LGAirConditioningFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise5/XMLUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise5/airConditioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise5/airConditioningFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise6/CipherDecrypt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise6/KeyGeneratorExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise6/MessageDigestExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise6/SignatureVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise7/Algorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise7/EvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise7/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise7/SomeSpecialNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise7/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise8/book.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/INFO5100_002923855_Li-Li.iml" beforeDir="false" afterPath="$PROJECT_DIR$/INFO5100_002923855_Li-Li.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +48,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -37,9 +75,13 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "create.test.in.the.same.root": "true",
-    "last_opened_file_path": "/Users/lili/INFO5100_002923855_Li-Li"
+    "last_opened_file_path": "/Users/lili/INFO5100_002923855_Li-Li",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -47,13 +89,13 @@
       <recent name="Exercise.Exercise3b" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise4Pattern1">
-    <configuration name="Exercise4Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise.Exercise4.Exercise4Pattern1" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Exercise.Exercise6.CipherDecrypt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Exercise6.CipherDecrypt" />
       <module name="INFO5100_002923855_Li-Li" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise.Exercise4.*" />
+          <option name="PATTERN" value="Exercise.Exercise6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise4Pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise.Exercise4.Exercise4Pattern2" />
+    <configuration name="KeyGeneratorExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Exercise6.KeyGeneratorExercise" />
       <module name="INFO5100_002923855_Li-Li" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise.Exercise4.*" />
+          <option name="PATTERN" value="Exercise.Exercise6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise4Pattern3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise.Exercise4.Exercise4Pattern3" />
+    <configuration name="MessageDigestExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Exercise6.MessageDigestExercise" />
       <module name="INFO5100_002923855_Li-Li" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise.Exercise4.*" />
+          <option name="PATTERN" value="Exercise.Exercise6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise4Pattern4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise.Exercise4.Exercise4Pattern4" />
+    <configuration name="SignatureVerification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Exercise6.SignatureVerification" />
       <module name="INFO5100_002923855_Li-Li" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise.Exercise4.*" />
+          <option name="PATTERN" value="Exercise.Exercise6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise4Pattern5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise.Exercise4.Exercise4Pattern5" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Exercise7.Test" />
       <module name="INFO5100_002923855_Li-Li" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise.Exercise4.*" />
+          <option name="PATTERN" value="Exercise.Exercise7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise4Pattern1" />
-        <item itemvalue="Application.Exercise4Pattern5" />
-        <item itemvalue="Application.Exercise4Pattern4" />
-        <item itemvalue="Application.Exercise4Pattern3" />
-        <item itemvalue="Application.Exercise4Pattern2" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.MessageDigestExercise" />
+        <item itemvalue="Application.SignatureVerification" />
+        <item itemvalue="Application.KeyGeneratorExercise" />
+        <item itemvalue="Application.Exercise.Exercise6.CipherDecrypt" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +184,8 @@
       <workItem from="1665088917804" duration="5034000" />
       <workItem from="1665121736534" duration="3000" />
       <workItem from="1665158659761" duration="16300000" />
-      <workItem from="1668275952104" duration="25410000" />
+      <workItem from="1668275952104" duration="25866000" />
+      <workItem from="1670085691712" duration="15655000" />
     </task>
     <task id="LOCAL-00001" summary="Try1">
       <created>1665078794734</created>
@@ -172,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668888288892</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Try1">
+      <created>1668888423100</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668888423100</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
