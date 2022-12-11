@@ -1,14 +1,13 @@
 package Exercise.Exercise3b;
 import Exercise.Exercise2.Circle;
 
-
 import java.io.*;
 public class DeserializeDemo {
 
     public static void main(String[] args) {
         Circle c1 = null;
         try {
-            FileInputStream fileIn = new FileInputStream("/tmp/shape.ser");
+            FileInputStream fileIn = new FileInputStream("/Users/lili/INFO5100_002923855_Li-Li/Info5100_002923855_Li Li/src/Exercise/Exercise3b/shape.ser");
             ObjectInputStream in = new ObjectInputStream(fileIn);
             c1 = (Circle) in.readObject();
             in.close();

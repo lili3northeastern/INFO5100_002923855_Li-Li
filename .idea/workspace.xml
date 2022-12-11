@@ -4,51 +4,103 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c8f2c1b-ae33-4b1d-a699-44c951657964" name="Changes" comment="Try1">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_6_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise5/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise5/GEAirConditioning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise5/GEAirConditioningFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise5/LGAirConditioning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise5/LGAirConditioningFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise5/XMLUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise5/airConditioning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise5/airConditioningFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise6/CipherDecrypt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise6/KeyGeneratorExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise6/MessageDigestExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise6/SignatureVerification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise7/Algorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise7/EvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise7/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise7/SomeSpecialNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise7/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise8/book.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8c8f2c1b-ae33-4b1d-a699-44c951657964" name="Changes" comment="Exercise 5,6,7,8">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise3b/shape.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise8/main/java/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise8/main/java/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise8/main/java/BookParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise8/main/java/CustomDeserializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise8/main/java/CustomSerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise8/main/java/Format.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise8/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise8/main/resources/book.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise8/main/resources/book.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise8/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise9/Cal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Finalproject/ImageConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Finalproject/ImageExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Finalproject/MultipleViews.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Finalproject/WritingPixelsExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/INFO5100_002923855_Li-Li.iml" beforeDir="false" afterPath="$PROJECT_DIR$/INFO5100_002923855_Li-Li.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise2/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise2/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise3b/DeserializeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise3b/DeserializeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise3b/SerializeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise3b/SerializeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise5/XMLUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise5/XMLUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise6/SignatureVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise6/SignatureVerification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Cars$InnerCars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Cars$InnerCars2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Cars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Clothes$InnerClothes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Clothes$InnerClothes2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Clothes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Decorations$InnerDecorations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Decorations$InnerDecorations2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Decorations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Exercise0Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Family$InnerFamily.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Family$InnerFamily2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Family.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Fruits$InnerFruits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Fruits$InnerFruits2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Fruits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/House$InnerHouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/House$InnerHouse2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Jobs$InnerJobs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Jobs$InnerJobs2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Jobs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Meals$InnerMeals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Meals$InnerMeals2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Meals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Plants$InnerPlants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Plants$InnerPlants2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Plants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Shoes$InnerShoes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Shoes$InnerShoes2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise0/Shoes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise1/Exercise1main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise1/FullTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise1/PartTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise1/Session.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise1/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise2/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise2/Exercise2main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise2/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise2/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise2/ShapeDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise2/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise2/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise3b/DeserializeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise3b/SerializeDemo$Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise3b/SerializeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise4/Exercise4Pattern1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise4/Exercise4Pattern2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise4/Exercise4Pattern3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise4/Exercise4Pattern4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFO5100_002923855_Li-Li/Exercise/Exercise4/Exercise4Pattern5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/book.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/book.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="AnnotationType" />
         <option value="Interface" />
+        <option value="Tag Library Descriptor" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -67,35 +119,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "create.test.in.the.same.root": "true",
-    "last_opened_file_path": "/Users/lili/INFO5100_002923855_Li-Li",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lili/INFO5100_002923855_Li-Li&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="Exercise.Exercise8.main.java" />
+      <recent name="Exercise.Exercise8" />
       <recent name="Exercise.Exercise3b" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Info5100_002923855_Li Li/src/Exercise/Exercise8" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Exercise.Exercise8" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Exercise.Exercise6.CipherDecrypt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise.Exercise6.CipherDecrypt" />
+  <component name="RunManager" selected="Application.ImageExample">
+    <configuration name="Cal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Exercise9.Cal" />
       <module name="INFO5100_002923855_Li-Li" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise.Exercise6.*" />
+          <option name="PATTERN" value="Exercise.Exercise9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeyGeneratorExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise.Exercise6.KeyGeneratorExercise" />
+    <configuration name="ImageExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Finalproject.ImageExample" />
       <module name="INFO5100_002923855_Li-Li" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise.Exercise6.*" />
+          <option name="PATTERN" value="Finalproject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MessageDigestExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise.Exercise6.MessageDigestExercise" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Exercise8.main.java.Main" />
       <module name="INFO5100_002923855_Li-Li" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exercise.Exercise6.*" />
+          <option name="PATTERN" value="Exercise.Exercise8.main.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,13 +216,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Cal" />
+      <item itemvalue="Application.ImageExample" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.SignatureVerification" />
+      <item itemvalue="Application.Test" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ImageExample" />
+        <item itemvalue="Application.Cal" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.MessageDigestExercise" />
         <item itemvalue="Application.SignatureVerification" />
-        <item itemvalue="Application.KeyGeneratorExercise" />
-        <item itemvalue="Application.Exercise.Exercise6.CipherDecrypt" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +253,13 @@
       <workItem from="1665121736534" duration="3000" />
       <workItem from="1665158659761" duration="16300000" />
       <workItem from="1668275952104" duration="25866000" />
-      <workItem from="1670085691712" duration="15655000" />
+      <workItem from="1670085691712" duration="16188000" />
+      <workItem from="1670367580811" duration="11151000" />
+      <workItem from="1670698248877" duration="7746000" />
+      <workItem from="1670718019076" duration="221000" />
+      <workItem from="1670718258650" duration="3744000" />
+      <workItem from="1670722133138" duration="2183000" />
+      <workItem from="1670739067916" duration="12084000" />
     </task>
     <task id="LOCAL-00001" summary="Try1">
       <created>1665078794734</created>
@@ -222,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668888423100</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Exercise 5,6,7,8">
+      <created>1670367371115</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670367371115</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,7 +334,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Try1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Try1" />
+    <MESSAGE value="Exercise 5,6,7,8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 5,6,7,8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

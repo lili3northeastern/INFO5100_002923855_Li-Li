@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="json">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Downloads/json_simple-1.1-all/lib" />
+      <root url="file://$PROJECT_DIR$/../Downloads/json_simple-1.1-all/lib" />
+      <root url="file://$PROJECT_DIR$/../Downloads/json_simple-1.1-all/lib" />
+      <root url="file://$PROJECT_DIR$/../Downloads/json_simple-1.1-all/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Downloads/json_simple-1.1-all/src" />
+      <root url="file://$PROJECT_DIR$/../Downloads/json_simple-1.1-all/test" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../Downloads/json_simple-1.1-all/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../Downloads/json_simple-1.1-all/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../Downloads/json_simple-1.1-all/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../Downloads/json_simple-1.1-all/lib" recursive="false" />
+  </library>
+</component>

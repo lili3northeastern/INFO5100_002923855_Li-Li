@@ -31,7 +31,7 @@ public class SignatureVerification {
 
         //initialize the signature
         sign.initSign(privKey);
-        byte[] bytes = "Hi we are learning JCA".getBytes();
+        byte[] bytes = "Hi we are learning JAVA".getBytes();
 
         // Adding the data to the signature
         sign.update(bytes);

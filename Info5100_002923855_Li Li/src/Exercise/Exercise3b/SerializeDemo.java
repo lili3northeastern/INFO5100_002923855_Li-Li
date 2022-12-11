@@ -6,10 +6,9 @@ package Exercise.Exercise3b;
    Test serialization and deserialization of the objects created in exercise # 2.
     */
 
-import Exercise.Exercise2.Circle;
-import Exercise.Exercise2.Shape;
-
-import java.io.*;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.ObjectOutputStream;
 
 
 public class SerializeDemo
@@ -29,12 +28,12 @@ public class SerializeDemo
 
         try
         {
-            FileOutputStream fileOut = new FileOutputStream("/tmp/shape.ser");
+            FileOutputStream fileOut = new FileOutputStream("/Users/lili/INFO5100_002923855_Li-Li/Info5100_002923855_Li Li/src/Exercise/Exercise3b/shape.ser");
             ObjectOutputStream out = new ObjectOutputStream(fileOut);
             out.writeObject(c1);
             out.close();
             fileOut.close();
-            System.out.printf("Serialized data is saved in /tmp/shape.ser");
+            System.out.printf("Serialized data is saved in /Users/lili/INFO5100_002923855_Li-Li/Info5100_002923855_Li Li/src/Exercise/Exercise3b/shape.ser");
         }catch(IOException i)
         {
             i.printStackTrace();

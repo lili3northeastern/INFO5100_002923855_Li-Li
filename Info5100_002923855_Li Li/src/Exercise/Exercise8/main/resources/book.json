@@ -1,0 +1,21 @@
+{
+  "title": "I love JAVA",
+  "publishedYear": "12/04/2022",
+  "numberOfPages":"55",
+  "authors": [
+    {
+      "firstName": "Evelyn",
+      "secondName": "Li"
+    },
+    {
+      "firstName": "Marry",
+      "secondName": "Wang"
+    }
+  ],
+  "content": "Java is amazing."
+}
+
+
+
+
+

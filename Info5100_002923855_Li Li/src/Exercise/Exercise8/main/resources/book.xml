@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<book>
+    <title>I love JAVA</title>
+    <publishedYear>12/04/2022</publishedYear>
+    <numberOfPages>55</numberOfPages>
+    <authors>
+        <author>
+            <firstName>Evelyn</firstName>
+            <secondName>Li</secondName>
+        </author>
+        <author>
+            <firstName>Marry</firstName>
+            <secondName>Wang</secondName>
+        </author>
+    </authors>
+    <content>Java is amazing.</content>
+</book>
